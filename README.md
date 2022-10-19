@@ -1,3 +1,3 @@
-# Nacho
-Mi versión del trabajo práctico de Herencia
+# Herencia Empleado
+Mi versión del trabajo práctico de Herencia.
 He unificado todo en empleadoFundamental
