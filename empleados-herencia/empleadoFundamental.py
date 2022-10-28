@@ -17,8 +17,3 @@ class EmpleadoFundamental:
         else:
             return False
     
-    def mostrar_datos(self):
-        texto = f"Nombre y apellido: {self.nombre} {self.apellido}\n"
-        texto += f"DNI: {self.dni} - Salario: {self.salario}\n"
-        texto += f"Antigüedad: {self.antiguedad}\n"
-        return texto
